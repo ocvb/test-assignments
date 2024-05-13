@@ -3,7 +3,7 @@
 | ✓      | SWE - Unproctored Test 1        | 15%        | Week 3     | 29 April  |
 | ✓      | FSDP - Practical Test 1         | 20%        | Week 4     | 8 May     |
 | ✓      | DBMS - Assignment 1             | 20%        | Week 4     | 12 May    |
-| X      | DSA - Test 1                    | 20%        | Week 5     | 13 May    |
+| ✓      | DSA - Test 1                    | 20%        | Week 5     | 13 May    |
 | X      | US2 - ICA 1                     | 40%        | Week 6     | 21 May    |
 | X      | FSDP - Proposal Presentation    | 20%        | Week 6     | XXX       |
 | X      | AVP - Assignment 1              | 25%        | Week 6     | 26 May    |
