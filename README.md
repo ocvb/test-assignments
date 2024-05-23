@@ -1,12 +1,8 @@
 | Status | Name                            | Percentage | Week       | Date      |
 | ------ | ------------------------------- | ---------- | ---------- | --------- |
-| ✓      | SWE - Unproctored Test 1        | 15%        | Week 3     | 29 April  |
-| ✓      | FSDP - Practical Test 1         | 20%        | Week 4     | 8 May     |
-| ✓      | DBMS - Assignment 1             | 20%        | Week 4     | 12 May    |
-| ✓      | DSA - Test 1                    | 20%        | Week 5     | 13 May    |
 | X      | FSDP - Proposal Presentation    | 20%        | Week 6     | 24 May    |
 | X      | US2 - ICA 1                     | 40%        | Week 6     | 26 May    |
-| X      | AVP - Assignment 1              | 25%        | Week 6     | 26 May    |
+| X      | AVP - Assignment 1              | 30%        | Week 6     | 26 May    |
 | X      | Comms - ICA 1                   | 40%        | Week 6/7   | XXX       |
 | X      | DBMS - Test 1                   | 30%        | Week 7     | 30 May    |
 | X      | Applied Calculus - Test 1       | 30%        | Week 7     | 31 May    |
