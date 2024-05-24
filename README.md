@@ -1,6 +1,6 @@
 | Status | Name                            | Percentage | Week       | Date      |
 | ------ | ------------------------------- | ---------- | ---------- | --------- |
-| X      | FSDP - Proposal Presentation    | 20%        | Week 6     | 24 May    |
+
 | X      | US2 - ICA 1                     | 40%        | Week 6     | 26 May    |
 | X      | AVP - Assignment 1              | 30%        | Week 6     | 26 May    |
 | X      | Comms - ICA 1                   | 40%        | Week 6/7   | XXX       |
@@ -18,11 +18,9 @@
 | X      | DBMS - Test 2                   | 30%        | Week 14    | 18 July   |
 | X      | Comms - ICA 3                   | 30%        | Week 14/15 | XXX       |
 | X      | DSA - Test 2                    | 30%        | Week 15    | 22 July   |
-| X      | Applied Calculus - Assignment 1 | 30%        | Week 15    | 26 July   |
 | X      | FSDP - Project Review 2         | 15%        | Week 16    | 31 July   |
 | X      | AVP - Assignment 2              | 30%        | Week 16    | 4 August  |
 | X      | DBMS - Assignment 2             | 20%        | Week 16    | 4 August  |
 | X      | SWE - Test 3                    | 25%        | Week 17    | 7 August  |
 | X      | DSA - Assignment 2              | 30%        | Week 17    | 11 August |
 | X      | FSDP - Final Presentation       | 30%        | Week 18    | XXX       |
-| X      | Applied Calculus - Final Exam   | 40%        | Week 19/20 | XXX       |
