@@ -1,6 +1,5 @@
 | Status | Name                            | Percentage | Week       | Date      |
 | ------ | ------------------------------- | ---------- | ---------- | --------- |
-
 | X      | US2 - ICA 1                     | 40%        | Week 6     | 26 May    |
 | X      | AVP - Assignment 1              | 30%        | Week 6     | 26 May    |
 | X      | Comms - ICA 1                   | 40%        | Week 6/7   | XXX       |
