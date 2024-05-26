@@ -1,6 +1,5 @@
 | Status | Name                            | Percentage | Week       | Date      |
 | ------ | ------------------------------- | ---------- | ---------- | --------- |
-| X      | Comms - ICA 1                   | 40%        | Week 6/7   | XXX       |
 | X      | DBMS - Test 1                   | 30%        | Week 7     | 30 May    |
 | X      | Applied Calculus - Test 1       | 30%        | Week 7     | 31 May    |
 | X      | SWE - Assignment Presentation   | 25%        | Week 8     | 3-9 June  |
