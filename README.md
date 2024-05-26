@@ -1,7 +1,6 @@
 | Status | Name                            | Percentage | Week       | Date      |
 | ------ | ------------------------------- | ---------- | ---------- | --------- |
 | X      | DBMS - Test 1                   | 30%        | Week 7     | 30 May    |
-| X      | Applied Calculus - Test 1       | 30%        | Week 7     | 31 May    |
 | X      | SWE - Assignment Presentation   | 25%        | Week 8     | 3-9 June  |
 | X      | AVP - Test 1                    | 15%        | Week 8     | 3 June    |
 | X      | DSA - Assignment 1              | 20%        | Week 8     | 6 June    |
